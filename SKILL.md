@@ -4,7 +4,8 @@ description: Evaluate whether a problem is worth pursuing using Hassabis's five-
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4108
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - grand-challenge-selection
 - transformation
